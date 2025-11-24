@@ -1,5 +1,5 @@
 ---
-description: "Prompt to generate POML for CRUD feature starter code for frontend"
+description: Prompt to generate POML for CRUD feature starter code for frontend
 ---
 
 Basic Components¶
@@ -799,5 +799,6 @@ Using the above reference, please generate the POML prompt file (not a prompt.md
 - {github_issue_read_feature}
 - {github_issue_update_feature}
 - {github_issue_delete_feature}
+
 
 
